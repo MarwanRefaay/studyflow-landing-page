@@ -1,2 +1,8 @@
-# studyflow-landing-page
-Study planner landing page – UI/UX design project
+studyflow-landing-page/
+│
+├── README.md
+├── Landing-page.png
+├── Hero-section.png
+├── Features-section.png
+├── How-it-works.png
+└── CTA-section.png
